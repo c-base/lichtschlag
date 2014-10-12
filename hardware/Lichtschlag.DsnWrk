@@ -1,6 +1,4 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=libraries.LibPkg
-[Project2]
-ProjectPath=schematics.PrjPcb
+ProjectPath=schematics\Lichtschlag.PrjPCB
