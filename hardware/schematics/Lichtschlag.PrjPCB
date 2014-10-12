@@ -39,11 +39,11 @@ PrefsRevisionGUID=
 [Document1]
 DocumentPath=CPU.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotateStartValue=100
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -56,11 +56,11 @@ DocumentUniqueId=IWKJMHIK
 [Document2]
 DocumentPath=Motor1.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotateStartValue=200
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -73,11 +73,11 @@ DocumentUniqueId=XDCJDBMK
 [Document3]
 DocumentPath=Motor2.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotateStartValue=300
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -85,7 +85,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=APTLHRAF
 
 [Document4]
 DocumentPath=..\libraries\Lichtschlag.SchLib
