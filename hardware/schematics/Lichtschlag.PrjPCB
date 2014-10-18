@@ -138,10 +138,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QWQNBVRG
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Lichtschlag\Design Rule Check - Lichtschlag.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
